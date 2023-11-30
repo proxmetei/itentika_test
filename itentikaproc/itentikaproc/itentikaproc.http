@@ -1,0 +1,6 @@
+@itentikaproc_HostAddress = http://localhost:5075
+
+GET {{itentikaproc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
